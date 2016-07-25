@@ -8,4 +8,4 @@ The css is not much and the javascript is only a few lines. Its very light-weigh
 
 This is made open source so you can modify it anyway you want or put suggestions on the comments issue to report any bug or suggest a feature.
 
-live demo can be found in my website arlora.co.nf: http://www.reddit.com
+live demo can be found in my website  http://www.arlora.co.nf
